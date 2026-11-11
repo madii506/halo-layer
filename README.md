@@ -8,3 +8,5 @@ Pick a halo. Get paid in it. A launchpad where every coin is paired with one pri
 - Storage: a Vercel Blob store (`BLOB_READ_WRITE_TOKEN`) for images, metadata, coin cards and the price sheets.
 
 Every transaction is signed in the visitor's own wallet. halo never holds keys or coins.
+
+Live: https://halo-layer.vercel.app
